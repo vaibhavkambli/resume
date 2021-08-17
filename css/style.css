@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.name {
+  margin: 0;
+  font-size: 5rem;
+}
+
+p{
+  line-height: 2;
+}
+
+hr {
+  /* border: dotted #EAF6F6;
+  border-bottom: none; */
+  border-top: 3px double #8c8b8b;
+  width: 70%;
+  margin: 100px auto;
+  /* border-color: gray; */
+
+
+}
+
+.prof {
+  font-size: 2rem;
+  margin:10px auto 0 auto;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Merriweather', serif;
+  font-size: 4em;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+}
+
+h3{
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5em;
+}
+
+a{
+  color: #11999E;
+}
+
+.about-me{
+color: #40514E;
+width: 30%;
+margin: auto;
+}
+
+.para-font-set{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1em;
+  color: #40514E;
+}
+
+
+div {
+  /* background-color: #E4F9F5; */
+  font-family: serif;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.skill1
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2
+{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.para-clangimg
+{
+  /* clear: left; */
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #EAF6F6;
+}
+
+.middle-container{
+    padding: 100px 0;
+}
+
+.bottom-container {
+  /* margin-top: 2em; */
+  /* padding-top: 5em; */
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+}
+
+
+
+.bottom-cloud {
+  position: absolute;
+  left:350px;
+  bottom: 330px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 350px;
+}
+
+.footer-link{
+  line-height: 2;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  margin-right: 2em;
+  width: 20%;
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 40%;
+  margin: auto;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+
+.contactme {
+    margin: 0 auto;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 12px;
+   font-weight: bolder;
+   padding: 13px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1rem;
+}
